@@ -1,0 +1,236 @@
+.container{
+	margin: 0 auto;
+}
+
+	#menu {
+	height:45px;
+	line-height:35px;
+	background:url(images/bg-menu.png) repeat-x;
+	}
+
+.brder{
+    width:860px;
+	height: 60px;
+		.brder{
+			background: url(../img/top.jpg);
+		}
+}
+#menu a{
+	text-decoration: none;
+	color: red;
+	background-color: black;
+	line-height: 1.2em;
+}
+#menu a:hover{
+	color: green;
+	background-color: red;
+}
+
+
+.logo{
+	margin-left: 20px;
+	
+}
+.social{
+	float:right;
+	padding-top: 20px;
+	margin-right:  125px;
+}
+.menu{
+	background: url(../img/menu.gif);
+	height: 30px;
+	width: 100px;
+}
+ul{
+	margin-left: 70px;
+	text-decoration: none;
+}
+li{
+    padding-right: 10px;
+    color: black;
+    text-decoration: none;
+	display:inline;
+}
+.contact p{
+	text-align: centre;
+	margin-left: 25px;
+	text-shadow:2px 3px 15px #292929;
+	color:#666;
+	
+}
+.big{
+	height: 300px;
+	width: 940px;
+	margin-top: -10px;
+	
+
+}
+/*--------article 1-----------*/
+
+
+.article1 img{
+	height: 300px;
+	width: 100%;
+	margin-left: 10px;
+	
+}
+.one1{
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: centre;
+	margin-left: 25px;
+	text-shadow:2px 3px 15px #292929;
+	color:#666;
+
+
+}
+.two1{
+	padding-top: 10px;
+	font-size: 15px;
+	font-family:sans-serif;
+	
+
+
+}
+
+/*--------article 2----------*/
+
+
+.one2{
+	font-size: 15px;
+	font-family: sans-serif;
+	text-align: centre;
+	margin-left: 35px;
+	text-shadow:2px 3px 15px #292929;
+	color:#666;
+
+
+}
+.article2 img{
+	height: 175px;
+	width: 235px;
+	margin-left: 5px;
+		}
+.two2{
+	padding-top: 10px;
+	font-size: 11px;
+	font-family:sans-serif;
+}
+/*---------ad---------*/
+.ad img{
+	height: 475px;
+	width: 205px;
+	margin-left: 0px;
+     
+ }
+ /*--------article 3------------*/
+ .one3{
+	font-size: 15px;
+	font-family: sans-serif;
+	text-align: centre;
+	margin-left: 35px;
+	text-shadow:2px 3px 15px #292929;
+	color:#666;
+}
+.article3 img{
+	height:175px;
+	width:250px;
+
+	}
+.two3{
+	padding-top: 10px;
+	font-size: 11px;
+	font-family:sans-serif;
+}
+/*----------------article 4----------*/
+ .one4{
+	font-size: 15px;
+	font-family: sans-serif;
+	text-align: centre;
+	margin-left: 15px;
+	text-shadow:2px 3px 15px #292929;
+	color:#666;
+}
+.article4 img{
+	height:175px;
+	width:250px;
+
+	}
+.two4{
+	padding-top: 10px;
+	font-size: 11px;
+	font-family:sans-serif;
+}
+/*----------------ad 2-------------*/
+.img1{
+	height: 100px;
+	width: 75%;
+
+}
+.img2{
+		margin-top: 0px;
+	width: 215px;
+	height: 200px;
+}
+.img3{
+	margin-top: 40px;
+	height: 220px;
+	width: 210px;
+}
+.img4{
+		margin-top: 15px;
+	height: 75px;
+	width: 215px;
+
+}
+.nice{
+	height: 150px;
+	width: 950px;
+}
+.divider{
+	width: 850px;
+	
+}
+
+#message{
+	text-align: center;
+}
+.s4s{
+	font-size: 20px;
+	font-family: monospace;
+	text-shadow:2px 3px 15px #292929;
+	color:#666;
+	text-align: center;
+}
+ section#tr-masthead nav#tr-main-nav ul.static-nav {
+      display: block;
+      overflow: hidden;
+      float: left;
+      padding-top: 5px;
+      padding-top: 0.5rem; }
+      section#tr-masthead nav#tr-main-nav ul.static-nav li {
+        float: left;
+        border: 1px solid #4d4d4d;
+        border: 0.1rem solid #4d4d4d;
+        border-right: 0; }
+        section#tr-masthead nav#tr-main-nav ul.static-nav li:first-child {
+          border-left: 0; }
+        section#tr-masthead nav#tr-main-nav ul.static-nav li:last-child {
+          border-right: 1px solid #4d4d4d;
+          border-right: 0.1rem solid #4d4d4d; }
+        section#tr-masthead nav#tr-main-nav ul.static-nav li a {
+          display: block;
+          font-family: "Benton", Impact, Helvetica, Arial, sans-serif;
+          font-size: 12px;
+          font-size: 1.2rem;
+          text-transform: uppercase;
+          color: #FFF;
+          padding: 8px 12px;
+          padding: 0.8rem 1.2rem; }
+          section#tr-masthead nav#tr-main-nav ul.static-nav li a:after {
+            padding-left: 0.5em; }
+          section#tr-masthead nav#tr-main-nav ul.static-nav li a:hover, section#tr-masthead nav#tr-main-nav ul.static-nav li a.active {
+            background-color: #262626;
+            border-bottom: 1px solid #fff; }
+          section#tr-masthead nav#tr-main-nav ul.static-nav li a.on {
+            background-color: #565759; }
